@@ -1,3 +1,2 @@
 - example json has a lot of deprecated functionality
 - Case Study: Sphinx-based Search
-- Single process pub-sub
