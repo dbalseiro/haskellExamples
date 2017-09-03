@@ -1,4 +1,3 @@
 - example json has a lot of deprecated functionality
-- Wiki: markdown, chat subsite, event source
 - Case Study: Sphinx-based Search
 - Single process pub-sub
